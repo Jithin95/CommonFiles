@@ -24,3 +24,7 @@ Remove project virtualenv (inferred from current directory):
 
    Use a lower-level pip command:
    > pipenv run pip freeze
+   
+   Run Shell:
+   > pipenv shell
+
